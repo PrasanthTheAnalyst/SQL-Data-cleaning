@@ -1,3 +1,5 @@
 # SQL-Data-cleaning
 
-Dataset - Nash ville Housing
+Dataset - Nash ville Housing (DataCleaningUsingSQL.sql)
+
+Covid Dataset - (SQLProjects.sql)
